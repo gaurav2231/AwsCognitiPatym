@@ -1,4 +1,4 @@
-package com.awsService;
+package com.awscognito.model;
 
 public class UserSignupRequest {
 	
